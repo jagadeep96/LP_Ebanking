@@ -1,0 +1,4 @@
+BranchName###BranchAddress###BranchArea###ZipCode###country###State###City###Results
+Samarlakota###11-3-78,mainroad###ismail nagar###53344###INDIA###Andhra Pradesh###Hyderabad###@New Branch with id 2045 created Sucessfully
+Ramvaram###10-3-73,mainroad###bazar street###53321###INDIA###Andhra Pradesh###Nellore###@New Branch with id 2046 created Sucessfully
+Sidhipet###11-178,mainroad###subanpura###54422###INDIA###Andhra Pradesh###Hyderabad###@New Branch with id 2047 created Sucessfully

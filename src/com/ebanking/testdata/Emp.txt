@@ -1,0 +1,4 @@
+EmployeeName###EmployeeLoginPswd###Role###Branch###Results
+gangadhar###gangadhar94###CashierRFNove###Samalkot
+lakshmi###lakshmi76###ClerkRFNove###Ramavaram
+surya###surya63###ManagerRFNove###Malakpet

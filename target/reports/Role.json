@@ -1,0 +1,298 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 20,
+        "name": "verify Role Creation with Multiple sets of Data",
+        "description": "",
+        "id": "role-creation;verify-role-creation-with-multiple-sets-of-data;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 14893336300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user already on Ranford Home Page",
+            "match": {
+              "location": "RoleSD.user_already_on_Ranford_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5440203700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "usser enters valid username and password",
+            "match": {
+              "location": "RoleSD.usser_enters_valid_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 64631900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user Veriffying Admin Login validation",
+            "match": {
+              "location": "RoleSD.user_Veriffying_Admin_Login_validation()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4804254400,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user Click on Role button",
+            "match": {
+              "location": "RoleSD.user_Click_on_Role_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8625301600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user Click on New Role and Enters \"Ccashierfbc\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ccashierfbc",
+                  "offset": 35
+                },
+                {
+                  "val": "E",
+                  "offset": 53
+                }
+              ],
+              "location": "RoleSD.user_Click_on_New_Role_and_Enters_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1075117400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user close the Application",
+            "match": {
+              "location": "RoleSD.user_close_the_Application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "verify Role Creation with Multiple sets of Data",
+        "description": "",
+        "id": "role-creation;verify-role-creation-with-multiple-sets-of-data;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 13008756800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user already on Ranford Home Page",
+            "match": {
+              "location": "RoleSD.user_already_on_Ranford_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 8911214500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "usser enters valid username and password",
+            "match": {
+              "location": "RoleSD.usser_enters_valid_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 53436400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user Veriffying Admin Login validation",
+            "match": {
+              "location": "RoleSD.user_Veriffying_Admin_Login_validation()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2132610500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "user Click on Role button",
+            "match": {
+              "location": "RoleSD.user_Click_on_Role_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7512596700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user Click on New Role and Enters \"Ttellerfbc\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Ttellerfbc",
+                  "offset": 35
+                },
+                {
+                  "val": "E",
+                  "offset": 52
+                }
+              ],
+              "location": "RoleSD.user_Click_on_New_Role_and_Enters_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1148224000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user close the Application",
+            "match": {
+              "location": "RoleSD.user_close_the_Application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "verify Role Creation with Multiple sets of Data",
+        "description": "",
+        "id": "role-creation;verify-role-creation-with-multiple-sets-of-data;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 33961773100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user already on Ranford Home Page",
+            "match": {
+              "location": "RoleSD.user_already_on_Ranford_Home_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5532879800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "usser enters valid username and password",
+            "match": {
+              "location": "RoleSD.usser_enters_valid_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3065371700,
+              "error_message": "org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/table/tbody/tr/td/table/tbody/tr[4]/td/table/tbody/tr[1]/td[4]/strong/font/font\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:25:53\u0027\nSystem info: host: \u0027DESKTOP-NMKE7HS\u0027, ip: \u0027192.168.175.111\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002711.0.17\u0027\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 108.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20221215175817, moz:geckodriverVersion: 0.32.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 4256, moz:profile: C:\\Users\\Toshiba\\AppData\\Lo..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 60fbf339-2250-419d-afa6-c65f25ba60bc\n*** Element info: {Using\u003dxpath, value\u003d/html/body/table/tbody/tr/td/table/tbody/tr[4]/td/table/tbody/tr[1]/td[4]/strong/font/font}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat stepDefination.RoleSD.user_Veriffying_Admin_Login_validation(RoleSD.java:38)\r\n\tat ✽.Then user Veriffying Admin Login validation(D:/LiveProject/Ebanking/src/features/Role.feature:9)\r\n",
+              "status": "failed"
+            },
+            "line": 9,
+            "name": "user Veriffying Admin Login validation",
+            "match": {
+              "location": "RoleSD.user_Veriffying_Admin_Login_validation()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 11,
+            "name": "user Click on Role button",
+            "match": {
+              "location": "RoleSD.user_Click_on_Role_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 13,
+            "name": "user Click on New Role and Enters \"Mmanagerfbc\" and \"E\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Mmanagerfbc",
+                  "offset": 35
+                },
+                {
+                  "val": "E",
+                  "offset": 53
+                }
+              ],
+              "location": "RoleSD.user_Click_on_New_Role_and_Enters_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 15,
+            "name": "user close the Application",
+            "match": {
+              "location": "RoleSD.user_close_the_Application()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Role Creation",
+    "description": "",
+    "id": "role-creation",
+    "keyword": "Feature",
+    "uri": "D:/LiveProject/Ebanking/src/features/Role.feature"
+  }
+]

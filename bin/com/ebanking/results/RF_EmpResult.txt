@@ -1,0 +1,4 @@
+EmployeeName###EmployeeLoginPswd###Role###Branch###Results
+gangadhar###gangadhar94###CashierRFNove###Samalkot###@Employer Already Existed...Try again
+lakshmi###lakshmi76###ClerkRFNove###Ramavaram###@Employer Already Existed...Try again
+surya###surya63###ManagerRFNove###Malakpet###@Employer Already Existed...Try again
